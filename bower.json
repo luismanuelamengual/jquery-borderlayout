@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "main": 
     [
-        "dist/jquery-borderlayout.min.js",
-        "dist/jquery-borderlayout.min.css"
+        "dist/jquery-borderlayout.js",
+        "dist/jquery-borderlayout.css"
     ],
     "authors": 
     [
