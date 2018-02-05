@@ -1,0 +1,25 @@
+{
+    "name": "jquery-neogroup-borderlayout",
+    "version": "1.0.0",
+    "main": 
+    [
+        "dist/jquery-borderlayout.min.js",
+        "dist/jquery-borderlayout.min.css"
+    ],
+    "authors": 
+    [
+        "Luis Manuel Amengual <luismanuelamengual@gmail.com>"
+    ],
+    "description": "Easy to use border layout for html pages",
+    "keywords": 
+    [
+        "jquery",
+        "html",
+        "borderlayout"
+    ],
+    "license": "Apache 2.0",
+    "dependencies": 
+    {
+        "jquery": "1.9.1 - 3"
+    }
+}
